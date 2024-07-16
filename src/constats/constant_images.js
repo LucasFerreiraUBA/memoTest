@@ -1,0 +1,1 @@
+export const IMAGES = ['bee','fox','koala','lion']

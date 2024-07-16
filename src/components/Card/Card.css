@@ -1,0 +1,13 @@
+.card{
+    width: 100px;
+    border: 2px solid green;
+    background-color: #887a7a;
+    min-height: 100px;
+
+}
+.card > img{
+    width: 100%;
+}
+.card.volteada > img{
+    display: none;
+}
